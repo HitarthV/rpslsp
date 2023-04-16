@@ -1,0 +1,11 @@
+C:\Users\hitar\source\repos\rpslsp\rpslsp\bin\Debug\rpslsp.exe.config
+C:\Users\hitar\source\repos\rpslsp\rpslsp\bin\Debug\rpslsp.exe
+C:\Users\hitar\source\repos\rpslsp\rpslsp\bin\Debug\rpslsp.pdb
+C:\Users\hitar\source\repos\rpslsp\rpslsp\obj\Debug\rpslsp.csproj.AssemblyReference.cache
+C:\Users\hitar\source\repos\rpslsp\rpslsp\obj\Debug\rpslsp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hitar\source\repos\rpslsp\rpslsp\obj\Debug\rpslsp.Form1.resources
+C:\Users\hitar\source\repos\rpslsp\rpslsp\obj\Debug\rpslsp.Properties.Resources.resources
+C:\Users\hitar\source\repos\rpslsp\rpslsp\obj\Debug\rpslsp.csproj.GenerateResource.cache
+C:\Users\hitar\source\repos\rpslsp\rpslsp\obj\Debug\rpslsp.csproj.CoreCompileInputs.cache
+C:\Users\hitar\source\repos\rpslsp\rpslsp\obj\Debug\rpslsp.exe
+C:\Users\hitar\source\repos\rpslsp\rpslsp\obj\Debug\rpslsp.pdb
